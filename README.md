@@ -1,27 +1,46 @@
-# E-Waste Recycling Hackathon Project
+# ♻️ WasteWise - E-Waste Recycling Platform
 
-## Overview
-This project is being developed as part of an e-waste recycling hackathon. The aim is to create an intuitive platform that simplifies the management and recycling of electronic waste. Currently, the project focuses on building the basic structure for user interface and interaction, with future plans to include advanced features for e-waste collection, sorting, and recycling.
+This project, named **WasteWise**, was developed during the prestigious **IIT Guwahati Hackathon**, where we proudly secured the **1st Prize**! 🏆 The platform is designed to tackle the growing problem of electronic waste by providing an intuitive and efficient solution for e-waste management and recycling.  
 
-## Current Features
-- **Basic User Interface:** Developed using HTML, CSS, and JavaScript to provide a preliminary look and feel of the platform.
-- **Responsive Design:** Ensures accessibility across various devices, including desktops, tablets, and mobile phones.
-- **Interactive Elements:** Incorporates interactive features such as buttons, forms, and alerts to guide users effectively.
+---
 
-## Technologies Used
-- **HTML:** For structuring the platform's content.
-- **CSS:** For styling and layout, ensuring a visually appealing and user-friendly interface.
-- **JavaScript:** Adds basic functionality, such as form validation, dynamic content loading, and user interaction.
+## 🚀 Overview
+The **WasteWise** platform aims to promote sustainable practices by:
+- Simplifying the **collection**, **sorting**, and **recycling** of e-waste.
+- Encouraging individuals and organizations to contribute to e-waste management.
+- Providing **real-time tracking** and data visualization for environmental impact.
 
-## How to Use
-1. **Clone the Repository:**
-   Clone the repository to your local machine by running the following command in your terminal:
+This project demonstrates the core concept with basic web functionalities while laying the foundation for future enhancements.
+
+---
+
+## 🌟 Current Features
+1. **Basic User Interface**:
+   - Built using **HTML** and **CSS** to emulate a professional look.
+   - User-friendly forms for e-waste submission.
+
+2. **Two Sections**:
+   - **Sellers**: Individuals can list items they want to recycle.
+   - **Buyers**: Organizations can browse and purchase recyclable materials.
+
+3. **Interactive Design**:
+   - Responsive and accessible across devices.
+   - Features interactive forms and buttons for seamless navigation.
+
+4. **Environmental Impact Tracker** (Prototype):
+   - Displays preliminary data on the **amount of e-waste recycled** and **its benefits** to the environment.
+
+---
+
+## 🔧 Technologies Used
+- **HTML5**: For the structural design of the website.
+- **CSS3**: To ensure a visually appealing and user-friendly interface.
+- **JavaScript**: Adds interactivity and dynamic content management.
+
+---
+
+## 📖 How to Use
+1. **Clone the Repository**:
+   Download the project by running the following command in your terminal:
    ```bash
-   git clone https://github.com/yourusername/e-waste-recycling-hackathon.git
-2. **Open the project.**
-3. **View the application.**
-
-## Future Work
-1. **Collection and Sorting Features: Introduce functionality for users to schedule e-waste pickups and sort items by category (e.g., plastics, metals, electronics).**
-2. **Back-end Integration: Integrate a back-end system to manage data, including user accounts, pickup schedules, and recycling tracking.**
-3. **Dashboard for Monitoring: Add a dashboard to visualize recycling progress, track recovered materials, and provide real-time updates.**
+   git clone https://akkysharma525.github.io/WasteWise/index.html
